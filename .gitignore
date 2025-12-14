@@ -1,0 +1,12 @@
+# Auto-generated
+/.fabric/
+/libraries/
+/logs/
+/versions/
+/usercache.json
+
+# World data
+/world/
+
+# Secrets
+/playit.toml
